@@ -1,0 +1,15 @@
+.THIS .NameBar{
+    background: linear-gradient(90.51deg, #6DA2EA 0%, #DDB5FF 100%);
+    border-radius: 10px;
+    padding:11px;
+    width: 103.5%;
+    margin-left: -1.5%;
+}
+.THIS .top-button {
+        background-color: #fff;
+        color: #007bff;
+        padding: 6px 12px;
+        border-radius: 4px;
+        text-decoration: none;
+        font-weight: bold;
+        }
